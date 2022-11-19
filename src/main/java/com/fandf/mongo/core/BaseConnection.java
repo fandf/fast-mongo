@@ -23,7 +23,9 @@ public interface BaseConnection {
     public BaseConnection setHost(String host);
     
     public BaseConnection setPort(int port);
-    
+
+    public BaseConnection setSource(String source);
+
     public BaseConnection setDatabase(String database);
     
     public BaseConnection setUsername(String username);

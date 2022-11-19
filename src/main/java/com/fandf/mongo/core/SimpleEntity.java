@@ -6,6 +6,9 @@ import com.fandf.mongo.core.annotations.Id;
 import com.fandf.mongo.core.utils.StringUtil;
 import org.bson.types.ObjectId;
 
+/**
+ * @author dongfengfan
+ */
 public abstract class SimpleEntity implements BaseEntity, Serializable {
     
     private static final long serialVersionUID = 1L;
