@@ -1,2 +1,2 @@
 # fast-mongo
-初衷：和mybatisPlus一样操作mongo
+封装mongo-java-driver
